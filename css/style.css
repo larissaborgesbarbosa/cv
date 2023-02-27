@@ -1,0 +1,38 @@
+body {
+    border: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: white;
+}
+
+.about
+{
+    text-align: center;
+    font-size: 13px;
+}
+
+.avatar {
+    padding: auto;
+    width: 100px;
+    border-width: 5px;
+}
+
+img {
+    padding: auto;
+    width: 50px;
+}
+
+nav {
+    background-color: #dbdbd6;
+    border-radius: 10px;
+    border-width: 5px;
+}
+
+.att
+
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+hr {
+    color: #D2C9AF;
+}
